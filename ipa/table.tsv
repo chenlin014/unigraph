@@ -295,6 +295,10 @@ j	c j
 ɾ̠	ʃ ɾ
 ɽ̊	ʂ ɾ̥
 ɽ	ʂ ɾ
+c̆	c ɾ̥
+ɟ̆	c ɾ
+k̆	k ɾ̥
+ɡ̆	k ɾ
 q̆	q ɾ̥
 ɢ̆	q ɾ
 ħ̆	ħ ɾ̥
@@ -326,31 +330,45 @@ r̠	ʃ r
 ɬ	t ɬ
 ɮ	t ɮ
 ɬ̠	ʃ ɬ
-ɮ̠	ʃ ɮ
+ɮ᫢	ʃ ɮ
 ꞎ	ʂ ɬ
 𝼅	ʂ ɮ
 𝼆	c ɬ
 ʎ̝	c ɮ
 𝼄	k ɬ
 ʟ̝	k ɮ
+𝼄̠	q ɬ
+ʟ̝᫢	q ɮ
 
+t̪͡ɬ	θ tɬ
+d̪͡ɮ	θ dɮ
 t͡ɬ	t tɬ
 d͡ɮ	t dɮ
+t̠͡ɬ	ʃ tɬ
+d̠͡ɮ	ʃ dɮ
 ʈ͡ꞎ	ʂ tɬ
 ɖ͡𝼅	ʂ dɮ
 c͡𝼆	c tɬ
 ɟ͡ʎ̝	c dɮ
 k͡𝼄	k tɬ
 ɡ͡ʟ̝	k dɮ
+q͡𝼄̠	q tɬ
+ɢ͡ʟ̝	q dɮ
 
+t̪͡ɬʰ	θ tɬh
+d̪͡ɮʱ	θ dɮh
 t͡ɬʰ	t tɬh
 d͡ɮʱ	t dɮh
+t̠͡ɬʰ	ʃ tɬh
+d̠͡ɮʱ	ʃ dɮh
 ʈ͡ꞎʰ	ʂ tɬh
 ɖ͡𝼅ʱ	ʂ dɮh
 c͡𝼆ʰ	c tɬh
 ɟ͡ʎ̝ʱ	c dɮh
 k͡𝼄ʰ	k tɬh
 ɡ͡ʟ̝ʱ	k dɮh
+q͡𝼄̠ʰ	q tɬh
+ɢ͡ʟ̝ʱ	q dɮh
 
 l̼̊	t̼ l̥
 l̼	t̼ l
@@ -362,6 +380,8 @@ l̠̊	ʃ l̥
 l̠	ʃ l
 ɭ̊	ʂ l̥
 ɭ	ʂ l
+ȴ̊	ɕ l̥
+ȴ	ɕ l
 ʎ̥	c l̥
 ʎ	c l
 ʟ̥	k l̥
@@ -383,6 +403,8 @@ l̠	ʃ l
 ʎ̆	c ɺ
 ʟ̥̆	k ɺ̥
 ʟ̆	k ɺ
+ʟ̠̯̆	q ɺ̥
+ʟ̠̆	q ɺ
 
 ɓ̥	p ɗ̥
 ɓ	p ɗ
@@ -435,20 +457,30 @@ k͡𝼄ʼ	k tɬʼ
 ǁ	h ǃ
 
 n͡m	t,p n
+n̥͡m̥	t,p n̥
 ɳ͡m	ʂ,p n
+ɳ̊͡m̥	ʂ,p n̥
 ŋ͡m	k,p n
+ŋ̊͡m̥	k,p n̥
 ɥ̊	c,p ȷ̊
 ɥ	c,p j
 ʍ	k,p s
 w	k,p j
 ɧ	ʃ,k s
 ɫ	k,t l
+ɫ̥	k,t l̥
 t͡p	t,p t=
+t͡pʰ	t,p th
 d͡b	t,p d=
+d͡bʱ	t,p dh
 ʈ͡p	ʂ,p t=
+ʈ͡pʰ	ʂ,p th
 ɖ͡b	ʂ,p d=
+ɖ͡bʱ	ʂ,p dh
 k͡p	k,p t=
+k͡pʰ	k,p th
 ɡ͡b	k,p d=
+ɡ͡bʱ	k,p dh
 q͡ʡ	q,ħ t=
 q͡p	q,p t=
 ɠ̊͜ɓ̥	k,p ɗ̥
